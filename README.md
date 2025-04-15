@@ -18,15 +18,16 @@
 ---
 
 ## Current Tech Stack
-- `Azure` | `Next.js` | `Tailwind` | `Copilot Studio` | `AI Foundry` |  `JavaScript` |  `Python` |  `HTML` |  `CSS` |  `GitHub`  
+- `Azure` | `Next.js` | `Tailwind` | `Copilot Studio` | `AI Foundry` |  `JavaScript` |  `Python` |  `HTML` |  `CSS` |  `GitHub`  | `VS Code`
 
 ---
 
 ## Past Tech Stack
 - **Python Libraries:** `pandas` | `numpy` | `matplotlib` | `scikit-learn` | `scipy` | `apriori` | `beautifulsoup`
-- **Other Libraries:** `MongoDB` | `Figma (basic)` | `Express` | `EJS` | `SQL`
+- **Other Libraries:** `MongoDB` | `Figma (basic)` | `Express` | `EJS` | `SQL` | `postman`
 
 ---
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eternalcrown&color=808080&style=flat)
 
