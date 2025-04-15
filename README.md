@@ -1,16 +1,26 @@
-## Hi there 👋
+# hey, i'm crxwn 👑
 
-<!--
-**eternalcrown/eternalcrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 girl in tech <3  
+- 🚀 currently building a couple of cool projects!  
+- 🤖 ai enthusiast with a love for learning  
+- 🧠 previously a data scientist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- ✅ Microsoft Certified: AI-900 – Azure AI Fundamentals  
+- ✅ Microsoft Certified: AZ-900 – Azure Fundamentals  
+- 🔄 AZ-104 – Azure Administrator (currently grinding!)  
+- 🔄 AI-102 – Designing and Implementing Azure AI Solutions (coming soon 👀)  
+- ✅ Certified ScrumMaster (CSM)  
+- ✅ Certified Scrum Product Owner (CSPO)  
+
+---
+
+## 🛠️ Tech Stack
+`Azure` `Next.js` `Tailwind` `Copilot Studio` `AI Foundry`  
+`JavaScript` `Python` `HTML` `CSS` `GitHub`  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=eternalcrown&color=808080&style=flat)
