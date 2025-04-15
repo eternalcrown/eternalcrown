@@ -1,25 +1,24 @@
 # hey, i'm crxwn 👑
 
-- 💻 girl in tech <3  
-- 🚀 currently building a couple of cool projects!  
-- 🤖 ai enthusiast with a love for learning  
-- 🧠 previously a data scientist  
+- girl in tech <3  
+- currently building a couple of cool projects !!  
+- ai enthusiast, with a love for learning :)
+- previously a data scientist  
 
 ---
 
-## 📜 Certifications
-- ✅ Microsoft Certified: AI-900 – Azure AI Fundamentals  
-- ✅ Microsoft Certified: AZ-900 – Azure Fundamentals  
-- 🔄 AZ-104 – Azure Administrator (currently grinding!)  
-- 🔄 AI-102 – Designing and Implementing Azure AI Solutions (coming soon 👀)  
-- ✅ Certified ScrumMaster (CSM)  
-- ✅ Certified Scrum Product Owner (CSPO)  
+## Certifications
+- ✅ AI-900
+- ✅ AZ-900 
+- 🔄 AZ-104 (currently grinding!)  
+- 🔄 AI-102 (coming soon 👀)  
+- ✅ CSM
+- ✅ CSPO 
 
 ---
 
 ## 🛠️ Tech Stack
-`Azure` `Next.js` `Tailwind` `Copilot Studio` `AI Foundry`  
-`JavaScript` `Python` `HTML` `CSS` `GitHub`  
+`Azure` `Next.js` `Tailwind` `Copilot Studio` `AI Foundry` `JavaScript` `Python` `HTML` `CSS` `GitHub`  
 
 ---
 
