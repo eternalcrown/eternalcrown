@@ -18,7 +18,7 @@
 ---
 
 ## Current Tech Stack
-`Azure` | `Next.js` | `Tailwind` | `Copilot Studio` | `AI Foundry` |  `JavaScript` |  `Python` |  `HTML` |  `CSS` |  `GitHub`  
+- `Azure` | `Next.js` | `Tailwind` | `Copilot Studio` | `AI Foundry` |  `JavaScript` |  `Python` |  `HTML` |  `CSS` |  `GitHub`  
 
 ---
 
