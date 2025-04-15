@@ -2,7 +2,7 @@
 
 - girl in tech <3  
 - currently building a couple of cool projects !!  
-- ai enthusiast, with a love for learning :)
+- ai enthusiast, with a love for learning :)  
 - previously a data scientist  
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Current Tech Stack
 `Azure` `Next.js` `Tailwind` `Copilot Studio` `AI Foundry` `JavaScript` `Python` `HTML` `CSS` `GitHub`  
 
 ---
@@ -28,14 +28,14 @@
   - `numpy`
   - `matplotlib`
   - `scikit-learn`
-  - `scipy``
+  - `scipy`
   - `apriori`
  
-- `mongodb`
-- `figma (basic)`
-- `express`
-- `EJS`
-- `SQL
+- **MongoDB**
+- **Figma** (basic)
+- **Express**
+- **EJS**
+- **SQL**
 
 ---
 
