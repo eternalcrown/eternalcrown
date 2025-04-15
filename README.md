@@ -22,4 +22,21 @@
 
 ---
 
+## Past Tech Stack
+- **Python**
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+  - `scikit-learn`
+  - `scipy``
+  - `apriori`
+ 
+- `mongodb`
+- `figma (basic)`
+- `express`
+- `EJS`
+- `SQL
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=eternalcrown&color=808080&style=flat)
