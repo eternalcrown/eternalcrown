@@ -1,9 +1,9 @@
 # hey, i'm crxwn 👑
 
-- girl in tech <3  
+- teen, girl in tech <3  
 - currently building a couple of cool projects !!  
 - ai enthusiast, with a love for learning :)  
-- previously a data scientist  
+- previously - data scientist, web developer  
 
 ---
 
