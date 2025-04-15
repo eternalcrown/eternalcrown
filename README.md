@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Current Tech Stack
+## Current Tech Stack
 `Azure` | `Next.js` | `Tailwind` | `Copilot Studio` | `AI Foundry` |  `JavaScript` |  `Python` |  `HTML` |  `CSS` |  `GitHub`  
 
 ---
