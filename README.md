@@ -24,7 +24,7 @@
 
 ## Past Tech Stack
 **Python Libraries:** `pandas` | `numpy` | `matplotlib` | `scikit-learn` | `scipy` | `apriori` | `beautifulsoup`
-`MongoDB` | `Figma (basic)` | `Express` | `EJS` | `SQL`
+**Other Libraries:** `MongoDB` | `Figma (basic)` | `Express` | `EJS` | `SQL`
 
 ---
 
