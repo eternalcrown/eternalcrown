@@ -1,4 +1,4 @@
-# hey, i'm crxwn 👑
+# hey, i'm crxwn !! 👑
 
 - teen, girl in tech <3  
 - currently building a couple of cool projects !!  
