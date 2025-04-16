@@ -29,5 +29,3 @@
 ---
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=eternalcrown&color=808080&style=flat)
-
