@@ -2,7 +2,7 @@
 
 - teen, girl in tech <3  
 - currently building a couple of cool projects !!  
-- ai enthusiast, with a love for learning :)  
+- cloud + ai enthusiast, with a love for learning :)  
 - previously - data scientist, web developer  
 
 ---
