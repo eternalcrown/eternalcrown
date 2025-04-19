@@ -7,16 +7,6 @@
 
 ---
 
-## Certifications
-- ✅ AI-900
-- ✅ AZ-900 
-- 🔄 AZ-104 (currently grinding!)  
-- 🔄 AI-102 (coming soon 👀)  
-- ✅ CSM
-- ✅ CSPO 
-
----
-
 ## Current Tech Stack
 - `Azure` | `Next.js` | `Tailwind` | `Copilot Studio` | `AI Foundry` |  `JavaScript` |  `Python` |  `HTML` |  `CSS` |  `GitHub`  | `VS Code`
 
