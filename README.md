@@ -3,7 +3,8 @@
 - teen, girl in tech <3  
 - currently building a couple of cool projects !!  
 - cloud + ai enthusiast, with a love for learning :)  
-- previously - data scientist, web developer  
+- previously - data scientist, web developer
+- contact me on discord @xocrxwn !!
 
 ---
 
